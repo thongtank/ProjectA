@@ -5,4 +5,5 @@
 	} else {
 		print "Not Connected";
 	}
+        echo "ZXC";
 ?>
